@@ -127,9 +127,6 @@ body {
   .nav__active {
     transform: translateX(0%);
   }
-
-
-
 }
 
 /*===== Toogle Animation =====*/
